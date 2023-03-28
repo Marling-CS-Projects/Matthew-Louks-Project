@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Reference list](README.md)
-* [Some Generic Project](<README (1).md>)
+* [Some Generic Project](README.md)
+  * [Reference list](readme/reference-list.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
 
