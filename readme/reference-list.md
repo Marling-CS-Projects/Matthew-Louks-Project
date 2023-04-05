@@ -21,3 +21,5 @@
 * Celeste Wiki. (n.d.). _Celeste_. \[online] Available at: [https://celestegame.fandom.com/wiki/Celeste](https://celestegame.fandom.com/wiki/Celeste).
 * Neoseeker. (n.d.). _Celeste Basic Controls_. \[online] Available at: [https://www.neoseeker.com/celeste/Celeste\_Basic\_Controls](https://www.neoseeker.com/celeste/Celeste\_Basic\_Controls) \[Accessed 1 Apr. 2023].
 * videostandards.org.uk. (n.d.). _Video Standards Council Ratings Board_. \[online] Available at: [https://videostandards.org.uk/RatingBoard/games/Celeste](https://videostandards.org.uk/RatingBoard/games/Celeste) \[Accessed 4 Apr. 2023].
+* store.steampowered.com. (n.d.). _Math Rescue on Steam_. \[online] Available at: [https://store.steampowered.com/app/358200/Math\_Rescue/](https://store.steampowered.com/app/358200/Math\_Rescue/) \[Accessed 5 Apr. 2023].
+* www.youtube.com. (n.d.). _Math Rescue Trailer_. \[online] Available at: [https://www.youtube.com/watch?v=0a-SpLG6nC8](https://www.youtube.com/watch?v=0a-SpLG6nC8) \[Accessed 5 Apr. 2023].
