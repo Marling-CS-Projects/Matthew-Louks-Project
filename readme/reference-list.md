@@ -23,3 +23,5 @@
 * videostandards.org.uk. (n.d.). _Video Standards Council Ratings Board_. \[online] Available at: [https://videostandards.org.uk/RatingBoard/games/Celeste](https://videostandards.org.uk/RatingBoard/games/Celeste) \[Accessed 4 Apr. 2023].
 * store.steampowered.com. (n.d.). _Math Rescue on Steam_. \[online] Available at: [https://store.steampowered.com/app/358200/Math\_Rescue/](https://store.steampowered.com/app/358200/Math\_Rescue/) \[Accessed 5 Apr. 2023].
 * www.youtube.com. (n.d.). _Math Rescue Trailer_. \[online] Available at: [https://www.youtube.com/watch?v=0a-SpLG6nC8](https://www.youtube.com/watch?v=0a-SpLG6nC8) \[Accessed 5 Apr. 2023].
+* Nintendo. (n.d.). _Donkey Kong Jr. Math_. \[online] Available at: [https://nintendo.fandom.com/wiki/Donkey\_Kong\_Jr.\_Math](https://nintendo.fandom.com/wiki/Donkey\_Kong\_Jr.\_Math) \[Accessed 10 Apr. 2023].
+* Nintendo of Europe GmbH. (n.d.). _Donkey Kong Jr. Math_. \[online] Available at: [https://www.nintendo.co.uk/Games/NES/Donkey-Kong-Jr-Math-276940.html](https://www.nintendo.co.uk/Games/NES/Donkey-Kong-Jr-Math-276940.html) \[Accessed 10 Apr. 2023].
