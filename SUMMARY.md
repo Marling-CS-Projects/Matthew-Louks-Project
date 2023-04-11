@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Some Generic Project](README.md)
+* [Mathematical Platformer](README.md)
   * [Reference list](readme/reference-list.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
