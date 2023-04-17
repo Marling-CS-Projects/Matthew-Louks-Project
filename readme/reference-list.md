@@ -18,6 +18,7 @@
 * www.askaboutgames.com. (n.d.). _All About: PEGI Age Ratings_. \[online] Available at: [https://www.askaboutgames.com/pegi-age-ratings](https://www.askaboutgames.com/pegi-age-ratings).
 * Internet Matters. (n.d.). _Video games age ratings explained_. \[online] Available at: [https://www.internetmatters.org/resources/video-games-age-ratings-explained/](https://www.internetmatters.org/resources/video-games-age-ratings-explained/).
 * Clement, J. (2021). _Online gaming among children by age UK 2017-2019_. \[online] Statista. Available at: [https://www.statista.com/statistics/274427/online-gaming-among-children-in-the-uk-by-age-group/](https://www.statista.com/statistics/274427/online-gaming-among-children-in-the-uk-by-age-group/).
+* IGN. (n.d.). _Celeste \[Gameplay]_. \[online] Available at: [https://www.ign.com/games/celeste/gameplay](https://www.ign.com/games/celeste/gameplay) \[Accessed 17 Apr. 2023].
 * Celeste Wiki. (n.d.). _Celeste_. \[online] Available at: [https://celestegame.fandom.com/wiki/Celeste](https://celestegame.fandom.com/wiki/Celeste).
 * Neoseeker. (n.d.). _Celeste Basic Controls_. \[online] Available at: [https://www.neoseeker.com/celeste/Celeste\_Basic\_Controls](https://www.neoseeker.com/celeste/Celeste\_Basic\_Controls) \[Accessed 1 Apr. 2023].
 * videostandards.org.uk. (n.d.). _Video Standards Council Ratings Board_. \[online] Available at: [https://videostandards.org.uk/RatingBoard/games/Celeste](https://videostandards.org.uk/RatingBoard/games/Celeste) \[Accessed 4 Apr. 2023].
