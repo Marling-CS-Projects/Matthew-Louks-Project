@@ -31,3 +31,4 @@
 * Dribbble. (n.d.). _EASY 2D Game Design Tutorial For Beginners_. \[online] Available at: [https://dribbble.com/shots/7211604-EASY-2D-Game-Design-Tutorial-For-Beginners](https://dribbble.com/shots/7211604-EASY-2D-Game-Design-Tutorial-For-Beginners) \[Accessed 19 Apr. 2023].
 * www.multiwingspan.co.uk. (n.d.). _multiwingspan_. \[online] Available at: [http://www.multiwingspan.co.uk/vb08.php?page=proc](http://www.multiwingspan.co.uk/vb08.php?page=proc) \[Accessed 27 Apr. 2023].
 * Avdeyuk, D. (2023). _Good Code vs. Bad Code Examples_. \[online] Devmountain. Available at: [https://devmountain.com/blog/where-can-i-find-examples-of-good-code/](https://devmountain.com/blog/where-can-i-find-examples-of-good-code/) \[Accessed 28 Apr. 2023].
+* www.programiz.com. (n.d.). _JavaScript if...else Statement (with Examples)_. \[online] Available at: [https://www.programiz.com/javascript/if-else](https://www.programiz.com/javascript/if-else) \[Accessed 3 May 2023].
