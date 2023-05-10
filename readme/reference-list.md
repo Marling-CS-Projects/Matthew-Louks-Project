@@ -32,3 +32,4 @@
 * www.multiwingspan.co.uk. (n.d.). _multiwingspan_. \[online] Available at: [http://www.multiwingspan.co.uk/vb08.php?page=proc](http://www.multiwingspan.co.uk/vb08.php?page=proc) \[Accessed 27 Apr. 2023].
 * Avdeyuk, D. (2023). _Good Code vs. Bad Code Examples_. \[online] Devmountain. Available at: [https://devmountain.com/blog/where-can-i-find-examples-of-good-code/](https://devmountain.com/blog/where-can-i-find-examples-of-good-code/) \[Accessed 28 Apr. 2023].
 * www.programiz.com. (n.d.). _JavaScript if...else Statement (with Examples)_. \[online] Available at: [https://www.programiz.com/javascript/if-else](https://www.programiz.com/javascript/if-else) \[Accessed 3 May 2023].
+* admurp (2022). _Visual Studio 2022 System Requirements_. \[online] learn.microsoft.com. Available at: [https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements](https://learn.microsoft.com/en-us/visualstudio/releases/2022/system-requirements).
