@@ -30,12 +30,11 @@ The speed and accuracy to which a user can complete the goal. To do this, I will
 
 ### Engaging
 
-The solution is engaging for the user to use. To do this, I will create 5 levels and an online multiplayer mode to keep the players engaged and allow them to have fun while playing the game. Using vector style art will also make the game nicer to look at than blocks, so will draw more people in, keeping them engaged.
+The solution is engaging for the user to use. To do this, I will create some levels to keep the players engaged and allow them to have fun while playing the game. Using vector style art will also make the game nicer to look at than blocks, so will draw more people in, keeping them engaged.
 
 #### Aims
 
 * Create a series of levels to work through
-* Create a multiplayer mode to play
 * Incorporate a style of game art the suits the game
 
 ### Error Tolerant
@@ -60,51 +59,57 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 ### Pseudocode for game
 
-This is the basic layout of the object to store the details of the game. This will be what is rendered as it will inherit all important code for the scenes.
+Here is basic pseudocode for Kaboom.js. This pseudocode loads the Kaboom library and adds a sprite for the player.
 
 ```
-object Game
-    type: Phaser
-    parent: id of HTML element
-    width: width
-    height: height
-    physics: set up for physics
-    scenes: add all menus, levels and other scenes
-end object
-
-render Game to HTML web page
+load Kaboom
+add player
+    sprite
+    position
+    area
+    body
 ```
 
 ### Pseudocode for a level
 
-This shows the basic layout of code for a Phaser scene. It shows where each task will be executed.
+Here is pseudocode for a level in Kaboom. This is just an example of what the layout of a level could look like.
 
-```
-class Level extends Phaser Scene
+<pre><code>constant level
 
-    procedure preload
-        load all sprites and music
-    end procedure
-    
-    procedure create
-        start music
-        draw background
-        create players
-        create platforms
-        create puzzle elements
-        create enemies
-        create obstacles
-        create finishing position
-        create key bindings
-    end procedure
-    
-    procedure update
-        handle key presses
-        move player
-        move interactable objects
-        update animations
-        check if player at exit
-    end procedure
-    
-end class
-```
+"                  "
+"   A    A    A    "
+"   =    =    =    "
+"@  Q O     E  O   "
+<strong>
+</strong>define symbol
+<strong>
+</strong>@ = player
+sprite
+scale
+origin
+
+Q = question
+sprite
+scale
+origin
+
+A = answer
+sprite
+scale
+origin
+
+E = enemy
+sprite
+scale
+origin
+
+O = obstacle
+sprite
+scale
+origin
+
+= = platform
+sprite
+scale
+origin
+</code></pre>
