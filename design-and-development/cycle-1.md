@@ -18,35 +18,59 @@ Non-functional: There will be colours to distinguish everything from one another
 
 ### Key Variables
 
-| Variable Name | Use                   |
-| ------------- | --------------------- |
-| foo           | does something useful |
+| Variable Name | Use                      |
+| ------------- | ------------------------ |
+| kaboom        | Loads the Kaboom assets. |
+| loadPedit     | Loads a .pedit file.     |
 
 ### Pseudocode
 
 ```
-procedure do_something
-    
-end procedure
+import kaboom
+
+kaboom
+
+loadPedit player
+loadPedit enemy
+loadPedit platform
+loadPedit spike
+
+add sprite player
+    position
+    area
+
+add sprite enemy
+    position
+    area
+
+add sprite platform
+    position
+    area
+
+add sprite spike
+    position
+    area
 ```
 
 ## Development
 
 ### Outcome
 
+There were problems with managing to get the .pedit sprites to show up initially, but I have now managed to get it to work.
+
 ### Challenges
 
-Description of challenges
+Initially the game screen game me an error message that the 'player' sprite could not be found. This is because I was using 'loadSprite' instead of 'loadPedit'.
 
 ## Testing
 
-Evidence for testing
-
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Thing happens     | As expected           | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
+| Test | Instructions      | What I expect            | What actually happens                            | Pass/Fail |
+| ---- | ----------------- | ------------------------ | ------------------------------------------------ | --------- |
+| 1    | Run initial code  | My sprites would show up | Error message - player sprite could not be found | Fail      |
+| 2    | Run improved code | My sprites would show up | My sprites show up                               | Pass      |
 
 ### Evidence
+
+![](<../.gitbook/assets/image (4).png>)
