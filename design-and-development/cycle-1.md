@@ -56,11 +56,54 @@ add sprite spike
 
 ### Outcome
 
-There were problems with managing to get the .pedit sprites to show up initially, but I have now managed to get it to work.
+There were problems with managing to get the .pedit sprites to show up initially, but I have now managed to get it to work. At this stage, I have made basic code snippets for displaying the sprites on the game screen.
+
+
+
+Code:
+
+```
+import kaboom from "kaboom"
+
+// initialize context
+kaboom()
+
+// load assets
+loadPedit("player", "/sprites/player.pedit")
+loadPedit("enemy", "/sprites/enemy.pedit")
+loadPedit("platform", "/sprites/platform.pedit")
+loadPedit("spike", "/sprites/spike.pedit")
+
+// add a character to screen
+add([
+	// list of components
+	sprite("player"),
+	pos(80, 40),
+	area(),
+])
+
+add([
+    sprite("enemy"),
+    pos(120, 40),
+    area(),
+])
+
+add([
+    sprite("platform"),
+    pos(160, 40),
+    area(),
+])
+
+add([
+    sprite("spike"),
+    pos(200, 40),
+    area(),
+])
+```
 
 ### Challenges
 
-Initially the game screen game me an error message that the 'player' sprite could not be found. This is because I was using 'loadSprite' instead of 'loadPedit'.
+Initially the game screen game me an error message that the 'player' sprite could not be found. This is because I was using 'loadSprite' instead of 'loadPedit'. When I used 'loadPedit' instead, the code worked as I wanted it to.
 
 ## Testing
 
