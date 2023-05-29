@@ -14,7 +14,7 @@ For cycle 1, my aim is to create sprites for the player's character and for any 
 
 ### Usability Features
 
-Non-functional: There will be colours to distinguish everything from one another. It will be obvious as to what is what: the player will be green, enemies will be red, etc.
+Non-functional: There will be colours to distinguish everything from one another. It will be obvious as to what is what: the player will be green, enemies will be red, etc. (Engaging, Easy to learn)
 
 ### Key Variables
 
