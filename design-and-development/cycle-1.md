@@ -116,4 +116,4 @@ Initially the game screen game me an error message that the 'player' sprite coul
 
 ### Evidence
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
