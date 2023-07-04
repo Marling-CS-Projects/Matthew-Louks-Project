@@ -62,7 +62,7 @@ There were problems with managing to get the .pedit sprites to show up initially
 
 Code:
 
-```
+```javascript
 import kaboom from "kaboom"
 
 // initialize context
