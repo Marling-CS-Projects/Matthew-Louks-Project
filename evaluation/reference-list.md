@@ -9,3 +9,4 @@
 * Skwarczek, B. (n.d.). _Council Post: How The Gaming Industry Has Leveled Up During The Pandemic_. \[online] Forbes. Available at: https://www.forbes.com/sites/forbestechcouncil/2021/06/17/how-the-gaming-industry-has-leveled-up-during-the-pandemic/?sh=57057044297c \[Accessed 23 Mar. 2023].
 * Pluralsight (2014). _What Makes a Great Game? The Key Elements of Successful Games_. \[online] Pluralsight.com. Available at: https://www.pluralsight.com/blog/film-games/what-makes-a-great-game-the-key-elements-of-successful-games.
 * De, S. (2021). _How Can Developers Improve Video Game Difficulty?_ \[online] MUO. Available at: https://www.makeuseof.com/video-game-difficulty-how-can-it-improve/#:\~:text=Good%20Video%20Game%20Difficulty%20Must \[Accessed 24 Mar. 2023].
+* Pegi Public Site. (n.d.). _What do the labels mean?_ \[online] Available at: https://pegi.info/what-do-the-labels-mean#:\~:text=The%20content%20of%20games%20with.
