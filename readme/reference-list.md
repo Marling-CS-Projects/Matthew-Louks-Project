@@ -36,3 +36,4 @@
 * Google.com. (2012). _Chrome Browser system requirements - Google Chrome Enterprise Help_. \[online] Available at: [https://support.google.com/chrome/a/answer/7100626?hl=en](https://support.google.com/chrome/a/answer/7100626?hl=en).
 * support.apple.com. (n.d.). _Safari 4 for Mac - Technical Specifications_. \[online] Available at: [https://support.apple.com/kb/sp552?locale=en\_GB](https://support.apple.com/kb/sp552?locale=en\_GB).
 * srugh (n.d.). _Microsoft Edge Supported Operating Systems_. \[online] learn.microsoft.com. Available at: [https://learn.microsoft.com/en-us/deployedge/microsoft-edge-supported-operating-systems](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-supported-operating-systems).
+* Pegi Public Site. (n.d.). _What do the labels mean?_ \[online] Available at: https://pegi.info/what-do-the-labels-mean#:\~:text=The%20content%20of%20games%20with.
